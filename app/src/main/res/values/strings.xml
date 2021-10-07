@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaAndroid</string>
+    <string name="saludo_splash">Hola Splash</string>
+    <string name="hola_mundo">Hola Mundo</string>
+    <string name="ingresa_numeros">Ingrese numeros separados por ,</string>
+    <string name="sumar">Sumar</string>
+    <string name="valores_hint">Ingrese valores: Ej 1,2,3,4</string>
+</resources>
